@@ -22,7 +22,8 @@ The frontend communicate with SpringBoot using Thymeleaf.
 ![img_5.png](img_5.png)
 4. Run the Application
 ![img_6.png](img_6.png)
-
+5. Open you browser and enter localhost:8080, then you
+are in the home page, have fun with the project.
 ### I inserted 11 data for test, you can see them after click on show Inventories
 ![img_7.png](img_7.png)
 
