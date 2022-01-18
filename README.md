@@ -11,17 +11,12 @@ display and test the operations on the database.
 ![img_2.png](img_2.png)
 
 The backend technologies I used are SpringBoot + Mongodb, 
-I use dock container to build the mongo database and 
-communicate with spring boot.
+I deployed mongodb on MongoDB Atlas.
 
-The frontend comminicate with SpringBoot using Thymeleaf.
+The frontend communicate with SpringBoot using Thymeleaf.
 
 # How to run and test the web application:
 
-## Tools:
-We need to install the latest docker from the website: 
-https://www.docker.com/products/docker-desktop
-![img_3.png](img_3.png)
 
 ## Configure Database
 After we cloned the project from here.
