@@ -16,12 +16,15 @@ I deployed mongodb on MongoDB Atlas.
 The frontend communicate with SpringBoot using Thymeleaf.
 
 # How to run and test the web application:
+1. git clone the repository to you computer.
+2. Open with intellij and trust the project.
+3. Build the project.
+![img_5.png](img_5.png)
+4. Run the Application
+![img_6.png](img_6.png)
+
+### I inserted 11 data for test, you can see them after click on show Inventories
+![img_7.png](img_7.png)
 
 
-## Configure Database
-After we cloned the project from here.
-
-We need to open the docker-compose.yaml file to build the 
-mongodb in a docker container.
-![img_4.png](img_4.png)
 
