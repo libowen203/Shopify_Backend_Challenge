@@ -16,14 +16,27 @@ I deployed mongodb on MongoDB Atlas.
 The frontend communicate with SpringBoot using Thymeleaf.
 
 # How to run and test the web application:
-1. git clone the repository to you computer.
-2. Open with intellij and trust the project.
-3. Build the project.
-![img_5.png](img_5.png)
-4. Run the Application
-![img_6.png](img_6.png)
-5. Open you browser and enter localhost:8080, then you
-are in the home page, have fun with the project.
+
+## Prerequisite
+This is a maven project, so we need to install maven first.
+If you have Brew installed, you can just use the code below 
+to install.
+
+`brew install mvm`
+
+## Run the project
+1. git clone the repository to you computer.\
+`git clone https://github.com/libowen203/Shopify_Backend_Challenge.git`
+2. In the termnial, enter to the project repository, which is the lowercase file name.
+![img_8.png](img_8.png)
+
+3. Run the following command:\
+`mvn spring-boot:run`
+
+4. You could see the termnial like this, now the project is running
+on http://localhost:8080/
+![img_9.png](img_9.png)
+
 ### I inserted 11 data for test, you can see them after click on show Inventories
 ![img_7.png](img_7.png)
 
